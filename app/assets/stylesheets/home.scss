@@ -1,0 +1,70 @@
+.header {
+    background-image: url("https://img.buzzfeed.com/buzzfeed-static/static/2016-12/13/13/campaign_images/buzzfeed-prod-fastlane03/twitter-turned-this-sad-kermit-into-an-emotional--2-10976-1481654874-0_dblbig.jpg");
+    height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: #afcfaf;
+}
+
+.facts {
+    background-color: white;
+    border-radius:25px;
+    padding:5px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+body {
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 100px;
+    background-color: #d3d9e2;
+}
+
+
+h1 {
+    color: white;
+    font-family: 'Satisfy', cursive;
+    text-align: center;
+    line-height: 400px;
+    font-size: 400%;
+}
+
+h3 {
+    line-height: 10px;
+    font-family: 'Abel';
+    font-size: 125%;
+}
+
+li, p {
+    font-family: 'Abel';
+    color:#778899;
+    background-color: white;
+}
+
+img {
+    display:block;
+    margin: auto;
+}
+
+.myButton {
+	background-color:#cfbacf;
+	-moz-border-radius:25px;
+	-webkit-border-radius:25px;
+	border-radius:25px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Satisfy;
+	font-size:25px;
+	padding:22px 67px;
+	text-decoration:none;
+}
+.myButton:hover {
+	background-color:#cf90cf;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
